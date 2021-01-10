@@ -1,0 +1,76 @@
+.vertical-menu {
+    width: 450px;
+  }
+  
+  .vertical-menu a {
+    background-color: #424242; 
+    color: rgb(255, 255, 255); 
+    display: block;
+    padding: 12px; 
+    text-decoration: none; 
+    font-size: 25px;
+    font-family: Arial;
+    margin: 0px;
+  }
+  
+  .vertical-menu a:hover {
+    background-color: #ccc;
+  }
+  
+  .vertical-menu a.active {
+    background-color: #4CAF50; 
+    color: #7A747A;
+  }
+  .dot{
+      position: absolute;
+      left: 100px;
+      top: 100px;
+      height: 225px;
+      width: 225px;
+      background-color: #00965E;
+      border-radius: 50%;
+      display: inline-block;
+  }
+  #main img{
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      margin: 0px;
+
+  }
+  .gombok{
+      position: absolute;
+      color: white;
+      font-size: 75px;
+      left: 130px;
+      top: 170px;
+      font-family: Arial;
+}
+.bal{
+    height: 1024px;
+    width: 450px;
+    float: left;
+}
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+}
+.jobb{
+    float: right;
+    
+}
+.cimek {
+    font-size: 50px;
+    font-family: Arial;
+    position: relative;
+    top: 90px;
+    right: 140px;
+}
+.kcim{
+    position: relative;
+    top: 150px;
+    right: 140px;
+    font-size: 40px;
+    font-family: Arial;
+}
