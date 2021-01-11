@@ -87,13 +87,27 @@ div.mult_heti{
     top: 150px;
     right:150px;
 }
-div.cimek{
+div.lcimek{
     position: relative;
     top: 150px;
     right: 300px;
 }
-div.kcim{
+div.lkcim{
     position: relative;
     top: 180px;
     right: 300px;
+}
+.lcimek {
+    font-size: 50px;
+    font-family: Arial;
+    position: relative;
+    top: 90px;
+    right: 140px;
+}
+.lkcim{
+    position: relative;
+    top: 150px;
+    right: 140px;
+    font-size: 40px;
+    font-family: Arial;
 }
