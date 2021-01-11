@@ -94,7 +94,7 @@ div.lcimek{
 }
 div.lkcim{
     position: relative;
-    top: 180px;
+    top: 200px;
     right: 300px;
 }
 .lcimek {
@@ -110,4 +110,9 @@ div.lkcim{
     right: 140px;
     font-size: 40px;
     font-family: Arial;
+}
+.leggyakoribbkep{
+    position:relative;
+    top:130px;
+    right:220px;
 }
