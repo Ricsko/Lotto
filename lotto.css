@@ -128,7 +128,8 @@ div.hascim{
     top: 190px;
     right: 150px;
     font-size: 40px;
-    font-family: Arial;}
+    font-family: Arial;
+}
 div.hascim2{
     position: relative;
     top: 190px;
@@ -140,4 +141,18 @@ div.leghasonlobbkep{
     position: relative;
     top: 190px;
     right: 150px;
+}
+div.leghossz{
+    position:relative;
+    top: 190px;
+    right: 150px;
+    font-size: 40px;
+    font-family: Arial;
+}
+div.leghossz2{
+    position:relative;
+    top: 400px;
+    right: 150px;
+    font-size: 40px;
+    font-family: Arial;
 }
