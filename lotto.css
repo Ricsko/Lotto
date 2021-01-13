@@ -131,7 +131,13 @@ div.hascim{
     font-family: Arial;}
 div.hascim2{
     position: relative;
-    top: 180px;
+    top: 190px;
     right: 140px;
     font-size: 40px;
     font-family: Arial;
+}
+div.leghasonlobbkep{
+    position: relative;
+    top: 190px;
+    right: 150px;
+}
