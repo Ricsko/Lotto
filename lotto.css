@@ -142,17 +142,15 @@ div.leghasonlobbkep{
     top: 190px;
     right: 150px;
 }
-div.leghossz{
+div.leg3{
     position:relative;
     top: 190px;
     right: 150px;
     font-size: 40px;
     font-family: Arial;
 }
-div.leghossz2{
-    position:relative;
-    top: 400px;
+div.hossz3{
+    position: relative;
+    top: 190px;
     right: 150px;
-    font-size: 40px;
-    font-family: Arial;
 }
