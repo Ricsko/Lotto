@@ -154,3 +154,15 @@ div.hossz3{
     top: 190px;
     right: 150px;
 }
+div.kiscim{
+    position:relative;
+    top: 190px;
+    right: 150px;
+    font-size: 40px;
+    font-family: Arial;
+}
+div.legkisebbkep{
+    position: relative;
+    top: 190px;
+    right: 150px;
+}
